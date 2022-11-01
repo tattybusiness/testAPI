@@ -1,7 +1,6 @@
 {
-  "Product": {
+  "Post": {
     "title": { "string": {} },
     "price": { "int": { "min": 1, "max": 15 } },
-    "stock": { "int": { "min": 0, "max": 1000} },
   },
 }
