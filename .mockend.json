@@ -1,6 +1,5 @@
 {
   "Post": {
     "title": { "string": {} },
-    "age": { "string": {} },
   }
 }
