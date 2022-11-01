@@ -1,5 +1,5 @@
 {
-  "Post": {
-    "title": { "string": {} },
-  },
+  "User": {
+    "title": { "string": {} }
+  }
 }
